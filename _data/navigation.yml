@@ -3,7 +3,7 @@ main:
   - title: "Profile"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /:archive/
+    url: /categories/
   - title: "Sample Posts"
     url: https://google.com
   - title: "Sample Collections"

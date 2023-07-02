@@ -17,16 +17,16 @@ github: [metadata]
 
 # Site Settings
 locale: "en-US"
-title: "Yogurtii"
+title: ""
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Yogurtii"
+name: ""
 description: "개인 홈페이지 포트폴리오"
 url: "https://kyj950514.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/yogurtii.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "/assets/images/fabicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Yeongjin Kim"
+  name: "김영진"
   avatar: "/assets/images/my_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "ML Engineer"
+  bio: "IT 개발자"
   location:
   email:
   links:
