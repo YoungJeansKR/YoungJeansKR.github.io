@@ -1,6 +1,6 @@
 ---
 title: "Sponsoring"
-layout: home
+layout: sponsoring
 permalink: /sponsoring
 author_profile: true
 ---
