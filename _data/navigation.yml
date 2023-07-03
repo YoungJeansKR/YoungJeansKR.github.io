@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "Profile"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /categories/
-  - title: "Sample Posts"
-    url: https://google.com
-  - title: "Sample Collections"
-    url: https://google.com
-  - title: "Sitemap"
-    url: https://google.com
+  - title: "CV"
+    url: /cv
+  - title: "Sponsoring"
+    url: /sponsoring
