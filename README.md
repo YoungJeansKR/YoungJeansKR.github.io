@@ -1,6 +1,6 @@
 ## Link
 
-* [https://0jeans.github.io](https://0jeans.github.io "포트폴리오 주소")
+* [https://youngjeanskr.github.io](https://youngjeanskr.github.io "포트폴리오 주소")
 
 ## Language / IDE
 
